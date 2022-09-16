@@ -44,7 +44,7 @@ Learn more about our [key features](/key-features/default-feeds.md) and start en
 
 Sign up is voluntary, but we highly recommend you to [create a profile](/your-profile/registration.md). That way, you will build your online presence and show the world what you have achieved. 
 
-### Step 5: Customize the look and feel 🌈
+### Step 5: Customize the look and feel 
 
 Make daily.dev look precisely how you want it to be! [Customize](/customize-your-feed/layout.md) the theme, layout, density, and a bunch of other cool preferences. 
 
